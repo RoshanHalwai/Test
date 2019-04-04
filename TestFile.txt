@@ -1,1 +1,3 @@
-Hello Git
+Hello Git.
+
+I have learned to create a git repo.
